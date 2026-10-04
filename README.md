@@ -1,1 +1,10 @@
+![5k2t Profile](./.github/assets/profile.svg)
 
+  ##
+
+<div> 
+  <a href="https://instagram.com/taysdx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/1348731958980509756" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <img src="https://komarev.com/ghpvc/?username=5k44r&label=Profile%20views&color=0e75b6&style=flat" alt="5k2t" />
+  
+</div>
